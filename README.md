@@ -5,5 +5,5 @@ Browser (tarayıcı) HTML kodunu anlıyor ve bizim anlamamız için HTML kodunu 
 
 <div align="center">
     <h3></h3>
-    <img src="https://github.com/yasir723/web-guvenligi/assets/111686779/585a689a-b264-4cc0-9458-90e017edc8dd">
+    <img src="https://github.com/yasir723/web-guvenligi/assets/111686779/f5f3f403-9df7-4cd2-8c66-4d747e7aede9">
 </div>
